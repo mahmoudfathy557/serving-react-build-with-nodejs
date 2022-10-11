@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7daf4b2.css",
+    "main.js": "/static/js/main.8c4c93df.js",
+    "static/js/266.0914fb74.chunk.js": "/static/js/266.0914fb74.chunk.js",
+    "static/js/36.c2969bf1.chunk.js": "/static/js/36.c2969bf1.chunk.js",
+    "static/media/dmg FOUNDATION.png": "/static/media/dmg FOUNDATION.0676bc2a91a4b7217966.png",
+    "static/media/MVLogo-Yellow.svg": "/static/media/MVLogo-Yellow.d43706f38f6ead48a33a93cd0651539a.svg",
+    "static/media/logout icon.png": "/static/media/logout icon.fae8fc63a12702e22c73.png",
+    "index.html": "/index.html",
+    "main.a7daf4b2.css.map": "/static/css/main.a7daf4b2.css.map",
+    "main.8c4c93df.js.map": "/static/js/main.8c4c93df.js.map",
+    "266.0914fb74.chunk.js.map": "/static/js/266.0914fb74.chunk.js.map",
+    "36.c2969bf1.chunk.js.map": "/static/js/36.c2969bf1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7daf4b2.css",
+    "static/js/main.8c4c93df.js"
+  ]
+}

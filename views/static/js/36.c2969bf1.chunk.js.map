@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/36.c2969bf1.chunk.js","mappings":"sJAMA,UAJgB,WACd,OAAO,wCACR,C","sources":["pages/Example.js"],"sourcesContent":["import React from 'react'\n\nconst Example = () => {\n  return <div>Example div</div>\n}\n\nexport default Example\n"],"names":[],"sourceRoot":""}
